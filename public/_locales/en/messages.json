@@ -1,0 +1,42 @@
+{
+  "extensionName": {
+    "message": "Multi-AI Browser Extension",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Unified access to Claude, ChatGPT, Gemini, and Grok with intelligent routing and cost optimization",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Multi-AI Assistant",
+    "description": "Title for the popup window"
+  },
+  "toggleSidebar": {
+    "message": "Toggle AI Sidebar",
+    "description": "Command to toggle the sidebar"
+  },
+  "askClaude": {
+    "message": "Ask Claude",
+    "description": "Context menu item for Claude"
+  },
+  "askChatGPT": {
+    "message": "Ask ChatGPT",
+    "description": "Context menu item for ChatGPT"
+  },
+  "askGemini": {
+    "message": "Ask Gemini",
+    "description": "Context menu item for Gemini"
+  },
+  "askGrok": {
+    "message": "Ask Grok",
+    "description": "Context menu item for Grok"
+  },
+  "askAll": {
+    "message": "Ask All AIs",
+    "description": "Context menu item to ask all AIs"
+  },
+  "settings": {
+    "message": "Settings",
+    "description": "Settings page title"
+  }
+}
